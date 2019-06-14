@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "be08024a9e8aeb70f6ca05473aa44458",
-    "url": "/anketa/static/media/icon_delete_s_white.be08024a.svg"
+    "revision": "d618529135fb76817251490fe58f8f0a",
+    "url": "/anketa/static/media/icon_delete_s_black.d6185291.svg"
   },
   {
-    "revision": "882ce12cf7b091d03cdc",
+    "revision": "dd3c2b1d3299637e2572",
     "url": "/anketa/static/css/main.81ca14b8.chunk.css"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/city.image.de5cecbe.svg"
   },
   {
-    "revision": "776de6fa97404b42c88f",
-    "url": "/anketa/static/js/1.776de6fa.chunk.js"
+    "revision": "ebabcb178672a3df4c5a",
+    "url": "/anketa/static/js/1.ebabcb17.chunk.js"
   },
   {
     "revision": "25ca47e73f0709f8a901",
     "url": "/anketa/static/js/2.25ca47e7.chunk.js"
   },
   {
-    "revision": "408a635e2ca76553a77951fc12c2a0a6",
-    "url": "/anketa/static/media/logo__icon_theme_alfa-on-white.408a635e.svg"
+    "revision": "8fd78082bde2eec5e7f6306ebab3aa35",
+    "url": "/anketa/static/media/logo__text_theme_alfa-on-white.8fd78082.svg"
   },
   {
     "revision": "38401a60d3e0f12dc1f5",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/anketa/static/js/4.eec4da4c.chunk.js"
   },
   {
-    "revision": "8fd78082bde2eec5e7f6306ebab3aa35",
-    "url": "/anketa/static/media/logo__text_theme_alfa-on-white.8fd78082.svg"
+    "revision": "408a635e2ca76553a77951fc12c2a0a6",
+    "url": "/anketa/static/media/logo__icon_theme_alfa-on-white.408a635e.svg"
   },
   {
     "revision": "6a70fee847f43b96fdbd",
@@ -56,44 +56,44 @@ self.__precacheManifest = [
     "url": "/anketa/static/js/7.3e783189.chunk.js"
   },
   {
-    "revision": "f9a9189632401ab272fc",
-    "url": "/anketa/static/js/runtime~main.f9a91896.js"
-  },
-  {
-    "revision": "9fdfa24f2ace08fd45da3821d1531479",
-    "url": "/anketa/static/media/icon_close_l_black.9fdfa24f.svg"
-  },
-  {
-    "revision": "e81304e1ba9b00f38571aa084a3b5cfc",
-    "url": "/anketa/static/media/icon_close_l_white.e81304e1.svg"
-  },
-  {
-    "revision": "5d2c2756ab278b3f84735376af0c0284",
-    "url": "/anketa/static/media/icon_close_m_white.5d2c2756.svg"
-  },
-  {
-    "revision": "cd06f8fbca7234fa3a10a5bc12a42205",
-    "url": "/anketa/static/media/icon_close_s_white.cd06f8fb.svg"
+    "revision": "52464b51c308fd2b7fe0",
+    "url": "/anketa/static/js/runtime~main.52464b51.js"
   },
   {
     "revision": "88b9180ac58c35601d8425254044892c",
     "url": "/anketa/static/media/icon_close_m_black.88b9180a.svg"
   },
   {
+    "revision": "9fdfa24f2ace08fd45da3821d1531479",
+    "url": "/anketa/static/media/icon_close_l_black.9fdfa24f.svg"
+  },
+  {
+    "revision": "5d2c2756ab278b3f84735376af0c0284",
+    "url": "/anketa/static/media/icon_close_m_white.5d2c2756.svg"
+  },
+  {
+    "revision": "e81304e1ba9b00f38571aa084a3b5cfc",
+    "url": "/anketa/static/media/icon_close_l_white.e81304e1.svg"
+  },
+  {
     "revision": "af6676b2ef164647620b1e1ea84bb7c2",
     "url": "/anketa/static/media/icon_close_s_black.af6676b2.svg"
+  },
+  {
+    "revision": "cd06f8fbca7234fa3a10a5bc12a42205",
+    "url": "/anketa/static/media/icon_close_s_white.cd06f8fb.svg"
   },
   {
     "revision": "217cfbbc40165c8a3437e68dc59deca1",
     "url": "/anketa/static/media/icon_close_xl_black.217cfbbc.svg"
   },
   {
-    "revision": "0f90c8e88a2a481e64ef797a08517890",
-    "url": "/anketa/static/media/icon_close_xl_white.0f90c8e8.svg"
-  },
-  {
     "revision": "f5bc862ef625a947a5be6abc9d25c1ac",
     "url": "/anketa/static/media/icon_close_xs_black.f5bc862e.svg"
+  },
+  {
+    "revision": "0f90c8e88a2a481e64ef797a08517890",
+    "url": "/anketa/static/media/icon_close_xl_white.0f90c8e8.svg"
   },
   {
     "revision": "bca604a95e3a09c97db710136b900ac3",
@@ -112,44 +112,44 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_search_m_white.3229eaea.svg"
   },
   {
-    "revision": "39c38a832fb018dd13cfad78fc65d0ca",
-    "url": "/anketa/static/media/icon_search_s_black.39c38a83.svg"
-  },
-  {
     "revision": "2aa690be1ec2a1b74fe95574bd583e27",
     "url": "/anketa/static/media/icon_search_m_black.2aa690be.svg"
+  },
+  {
+    "revision": "39c38a832fb018dd13cfad78fc65d0ca",
+    "url": "/anketa/static/media/icon_search_s_black.39c38a83.svg"
   },
   {
     "revision": "b0bc70340a628306534f73b3ab874e56",
     "url": "/anketa/static/media/icon_search_s_white.b0bc7034.svg"
   },
   {
-    "revision": "72268587082f6aa4c0f318f0122dec50",
-    "url": "/anketa/static/media/icon_search_xl_white.72268587.svg"
-  },
-  {
     "revision": "5ad4327e2e5506b9b18e6e86feb5ec36",
     "url": "/anketa/static/media/icon_search_xl_black.5ad4327e.svg"
+  },
+  {
+    "revision": "72268587082f6aa4c0f318f0122dec50",
+    "url": "/anketa/static/media/icon_search_xl_white.72268587.svg"
   },
   {
     "revision": "9d83a49a7647f7484bbbabde9bed1bc5",
     "url": "/anketa/static/media/icon_arrow-down_l_black.9d83a49a.svg"
   },
   {
-    "revision": "4b97a2bf92383eebeda2bbeee54fccf8",
-    "url": "/anketa/static/media/icon_arrow-down_l_white.4b97a2bf.svg"
+    "revision": "7a4c90286569c99da1a169e8ebc6a2af",
+    "url": "/anketa/static/media/icon_arrow-down_m_black.7a4c9028.svg"
   },
   {
-    "revision": "7d5a1ad9c0d16b83a3146deb9c326a19",
-    "url": "/anketa/static/media/icon_arrow-down_s_black.7d5a1ad9.svg"
+    "revision": "4b97a2bf92383eebeda2bbeee54fccf8",
+    "url": "/anketa/static/media/icon_arrow-down_l_white.4b97a2bf.svg"
   },
   {
     "revision": "e7dafbaaaa4bc26bbb4b1d4087f32730",
     "url": "/anketa/static/media/icon_arrow-down_m_white.e7dafbaa.svg"
   },
   {
-    "revision": "7a4c90286569c99da1a169e8ebc6a2af",
-    "url": "/anketa/static/media/icon_arrow-down_m_black.7a4c9028.svg"
+    "revision": "7d5a1ad9c0d16b83a3146deb9c326a19",
+    "url": "/anketa/static/media/icon_arrow-down_s_black.7d5a1ad9.svg"
   },
   {
     "revision": "b8d45ef965750d3b1451f45aacdcfb2f",
@@ -160,12 +160,12 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_arrow-down_xl_black.40f6ac4c.svg"
   },
   {
-    "revision": "9871eef1189b66fa27417e4c50fd5b01",
-    "url": "/anketa/static/media/icon_arrow-down_xl_white.9871eef1.svg"
-  },
-  {
     "revision": "b2dcd8191dc2604c65eda108545ca4be",
     "url": "/anketa/static/media/icon_arrow-down_xxl_black.b2dcd819.svg"
+  },
+  {
+    "revision": "9871eef1189b66fa27417e4c50fd5b01",
+    "url": "/anketa/static/media/icon_arrow-down_xl_white.9871eef1.svg"
   },
   {
     "revision": "9eaf2edb1f6462e94b07e0203858c437",
@@ -196,52 +196,52 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_arrow-up_s_white.41374a25.svg"
   },
   {
-    "revision": "15349fc28288d230f0445aba7b9998c2",
-    "url": "/anketa/static/media/icon_arrow-up_xl_white.15349fc2.svg"
-  },
-  {
     "revision": "b6fa5d99ee6725d8ba2db8074a0efeac",
     "url": "/anketa/static/media/icon_arrow-up_xl_black.b6fa5d99.svg"
-  },
-  {
-    "revision": "eb5c7952fe99cb3894e839d89080745b",
-    "url": "/anketa/static/media/icon_arrow-up_xxl_white.eb5c7952.svg"
   },
   {
     "revision": "83529fb6fa7eed9b85a03c3aebc9471b",
     "url": "/anketa/static/media/icon_arrow-up_xxl_black.83529fb6.svg"
   },
   {
-    "revision": "565a185c17a5576fe462b14a0b385ffa",
-    "url": "/anketa/static/media/icon_check_l_black.565a185c.svg"
+    "revision": "eb5c7952fe99cb3894e839d89080745b",
+    "url": "/anketa/static/media/icon_arrow-up_xxl_white.eb5c7952.svg"
   },
   {
-    "revision": "0ac0a9b01eb33519841af1effe6a467c",
-    "url": "/anketa/static/media/icon_check_m_black.0ac0a9b0.svg"
+    "revision": "15349fc28288d230f0445aba7b9998c2",
+    "url": "/anketa/static/media/icon_arrow-up_xl_white.15349fc2.svg"
+  },
+  {
+    "revision": "565a185c17a5576fe462b14a0b385ffa",
+    "url": "/anketa/static/media/icon_check_l_black.565a185c.svg"
   },
   {
     "revision": "fdb6a712288bf9cca75e936c0cf7d0a0",
     "url": "/anketa/static/media/icon_check_l_white.fdb6a712.svg"
   },
   {
+    "revision": "0ac0a9b01eb33519841af1effe6a467c",
+    "url": "/anketa/static/media/icon_check_m_black.0ac0a9b0.svg"
+  },
+  {
     "revision": "18647cbbd74602c09e31d22975ca08e5",
     "url": "/anketa/static/media/icon_check_m_white.18647cbb.svg"
-  },
-  {
-    "revision": "8366d3f8768f7115fb1a1e4c09c3da86",
-    "url": "/anketa/static/media/icon_check_s_black.8366d3f8.svg"
-  },
-  {
-    "revision": "8b7e2d664765bccf52ae4864079d0ef8",
-    "url": "/anketa/static/media/icon_check_s_white.8b7e2d66.svg"
   },
   {
     "revision": "05eab1b3b45cb9d5bbc5dd65441aaf97",
     "url": "/anketa/static/media/icon_check_xl_black.05eab1b3.svg"
   },
   {
+    "revision": "8b7e2d664765bccf52ae4864079d0ef8",
+    "url": "/anketa/static/media/icon_check_s_white.8b7e2d66.svg"
+  },
+  {
     "revision": "a3d3dfcb61770afa7922fe94e34e432d",
     "url": "/anketa/static/media/icon_check_xl_white.a3d3dfcb.svg"
+  },
+  {
+    "revision": "8366d3f8768f7115fb1a1e4c09c3da86",
+    "url": "/anketa/static/media/icon_check_s_black.8366d3f8.svg"
   },
   {
     "revision": "50d46f8321796ee751f70af3b13f6df6",
@@ -252,12 +252,12 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_check_xxl_white.6bfe16c2.svg"
   },
   {
-    "revision": "e94fb4764d9a702c756c6a4a7d42b838",
-    "url": "/anketa/static/media/arrow_wl.e94fb476.svg"
-  },
-  {
     "revision": "486cf141a8bb4f6af0b3cf3ac681e05d",
     "url": "/anketa/static/media/2_arrow_wl.486cf141.svg"
+  },
+  {
+    "revision": "e94fb4764d9a702c756c6a4a7d42b838",
+    "url": "/anketa/static/media/arrow_wl.e94fb476.svg"
   },
   {
     "revision": "11557a98b74eeb0120dc62b61df22d31",
@@ -288,10 +288,6 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_calendar_l_white.3a708c87.svg"
   },
   {
-    "revision": "0eaf902c37e7f8552333ed95462a1699",
-    "url": "/anketa/static/media/icon_calendar_l_black.0eaf902c.svg"
-  },
-  {
     "revision": "827f7d8600205d7c49497d7c6fb7f2fc",
     "url": "/anketa/static/media/icon_calendar_m_black.827f7d86.svg"
   },
@@ -300,12 +296,16 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_calendar_m_white.9690e488.svg"
   },
   {
-    "revision": "e7668b29ac12253765157441dae6d6de",
-    "url": "/anketa/static/media/icon_calendar_s_black.e7668b29.svg"
+    "revision": "0eaf902c37e7f8552333ed95462a1699",
+    "url": "/anketa/static/media/icon_calendar_l_black.0eaf902c.svg"
   },
   {
     "revision": "3e71a18b76a6ca37a03d8574f7d506ce",
     "url": "/anketa/static/media/icon_calendar_s_white.3e71a18b.svg"
+  },
+  {
+    "revision": "e7668b29ac12253765157441dae6d6de",
+    "url": "/anketa/static/media/icon_calendar_s_black.e7668b29.svg"
   },
   {
     "revision": "343da72c42a045cef4ba2f368d20aaf0",
@@ -320,10 +320,6 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_tick_l_black.7a7690f4.svg"
   },
   {
-    "revision": "d4efddc78eb12d4eac58008441d1dfc1",
-    "url": "/anketa/static/media/icon_tick_m_black.d4efddc7.svg"
-  },
-  {
     "revision": "1278335f1baa6e0dced3b5b98f758b6f",
     "url": "/anketa/static/media/icon_tick_l_white.1278335f.svg"
   },
@@ -332,20 +328,24 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_tick_m_white.91d46d42.svg"
   },
   {
+    "revision": "f9bec6c98aaf812650aa3ee06b174fa9",
+    "url": "/anketa/static/media/icon_tick_s_black.f9bec6c9.svg"
+  },
+  {
     "revision": "141f1b40f5876a09abab46afa6601ac5",
     "url": "/anketa/static/media/icon_tick_s_white.141f1b40.svg"
   },
   {
-    "revision": "f9bec6c98aaf812650aa3ee06b174fa9",
-    "url": "/anketa/static/media/icon_tick_s_black.f9bec6c9.svg"
+    "revision": "28a2987facae5edb2777000a8b0aa13b",
+    "url": "/anketa/static/media/icon_tick_xl_white.28a2987f.svg"
   },
   {
     "revision": "fbad21621cfacbf2c31cd3e2442ce803",
     "url": "/anketa/static/media/icon_tick_xl_black.fbad2162.svg"
   },
   {
-    "revision": "28a2987facae5edb2777000a8b0aa13b",
-    "url": "/anketa/static/media/icon_tick_xl_white.28a2987f.svg"
+    "revision": "d4efddc78eb12d4eac58008441d1dfc1",
+    "url": "/anketa/static/media/icon_tick_m_black.d4efddc7.svg"
   },
   {
     "revision": "d6c16d674a1dabf49b91a0258652861f",
@@ -356,36 +356,36 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_tick_xs_white.17119161.svg"
   },
   {
-    "revision": "8ca92e30f0571b67c2196197ab050809",
-    "url": "/anketa/static/media/icon_tick_xxl_black.8ca92e30.svg"
-  },
-  {
     "revision": "d40d668d67171aa2a1407eb580ee5355",
     "url": "/anketa/static/media/icon_tick_xxl_white.d40d668d.svg"
+  },
+  {
+    "revision": "8ca92e30f0571b67c2196197ab050809",
+    "url": "/anketa/static/media/icon_tick_xxl_black.8ca92e30.svg"
   },
   {
     "revision": "d2d0aea6d0547d7e4b6598ea96090907",
     "url": "/anketa/static/media/icon_check-indeterminate_m_black.d2d0aea6.svg"
   },
   {
-    "revision": "33e19089d7f43002d6b5cfaa3ac11e0c",
-    "url": "/anketa/static/media/icon_check-indeterminate_m_white.33e19089.svg"
-  },
-  {
     "revision": "623ae07c4f543b96989a722a21470df7",
     "url": "/anketa/static/media/icon_check-indeterminate_s_black.623ae07c.svg"
+  },
+  {
+    "revision": "33e19089d7f43002d6b5cfaa3ac11e0c",
+    "url": "/anketa/static/media/icon_check-indeterminate_m_white.33e19089.svg"
   },
   {
     "revision": "cc03cad908acc89654c9fce69b5c3522",
     "url": "/anketa/static/media/icon_check-indeterminate_s_white.cc03cad9.svg"
   },
   {
-    "revision": "63d1c89ceb5003cca0f2c87fd4131edc",
-    "url": "/anketa/static/media/icon_add_l_black.63d1c89c.svg"
-  },
-  {
     "revision": "6177ddcf2ddb22713e57128c279c895b",
     "url": "/anketa/static/media/icon_add_l_white.6177ddcf.svg"
+  },
+  {
+    "revision": "63d1c89ceb5003cca0f2c87fd4131edc",
+    "url": "/anketa/static/media/icon_add_l_black.63d1c89c.svg"
   },
   {
     "revision": "7d9240dfcc05a08a95fa2a6ece3bace0",
@@ -408,24 +408,24 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_delete_m_black.f7088f71.svg"
   },
   {
+    "revision": "be08024a9e8aeb70f6ca05473aa44458",
+    "url": "/anketa/static/media/icon_delete_s_white.be08024a.svg"
+  },
+  {
     "revision": "e9d62930a3de61b33f96b7383873d1c9",
     "url": "/anketa/static/media/icon_delete_m_white.e9d62930.svg"
   },
   {
-    "revision": "d618529135fb76817251490fe58f8f0a",
-    "url": "/anketa/static/media/icon_delete_s_black.d6185291.svg"
-  },
-  {
-    "revision": "882ce12cf7b091d03cdc",
-    "url": "/anketa/static/js/main.882ce12c.chunk.js"
-  },
-  {
-    "revision": "0ddcc7de3fcd207c9585622055aa7de9",
-    "url": "/anketa/static/media/icon_delete_xl_black.0ddcc7de.svg"
+    "revision": "dd3c2b1d3299637e2572",
+    "url": "/anketa/static/js/main.dd3c2b1d.chunk.js"
   },
   {
     "revision": "426b4dc2dbd2d393fbdbff16b975bbd2",
     "url": "/anketa/static/media/icon_delete_xl_white.426b4dc2.svg"
+  },
+  {
+    "revision": "0ddcc7de3fcd207c9585622055aa7de9",
+    "url": "/anketa/static/media/icon_delete_xl_black.0ddcc7de.svg"
   },
   {
     "revision": "5c30a08ee511d0a8463fb3e8feaab74b",
@@ -460,20 +460,20 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_format-pdf_l_white.376b9425.svg"
   },
   {
-    "revision": "baa70bb150ab02a475ea34d1d8f738dd",
-    "url": "/anketa/static/media/icon_format-pdf_m_white.baa70bb1.svg"
-  },
-  {
-    "revision": "6acf578155a47cc2fccd1da133aa71d2",
-    "url": "/anketa/static/media/icon_format-pdf_s_white.6acf5781.svg"
-  },
-  {
     "revision": "cb2d4df26f8310ab60fae8b574a3037c",
     "url": "/anketa/static/media/icon_format-pdf_m_black.cb2d4df2.svg"
   },
   {
+    "revision": "baa70bb150ab02a475ea34d1d8f738dd",
+    "url": "/anketa/static/media/icon_format-pdf_m_white.baa70bb1.svg"
+  },
+  {
     "revision": "9cf3ed8ebd2d24bea8835a9e831e04fa",
     "url": "/anketa/static/media/icon_format-pdf_s_black.9cf3ed8e.svg"
+  },
+  {
+    "revision": "6acf578155a47cc2fccd1da133aa71d2",
+    "url": "/anketa/static/media/icon_format-pdf_s_white.6acf5781.svg"
   },
   {
     "revision": "99b664f11ced687f9eb819fad6c1bd93",
@@ -484,20 +484,20 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_format-pdf_xl_white.4599eeeb.svg"
   },
   {
-    "revision": "47673ee356d2624a3ccc79686301494b",
-    "url": "/anketa/static/media/icon_repeat_l_white.47673ee3.svg"
-  },
-  {
     "revision": "ac16c02d73531c45ef5a57ba401e32a4",
     "url": "/anketa/static/media/icon_repeat_l_black.ac16c02d.svg"
   },
   {
-    "revision": "ce4dfcad83fd5755c3960aaf9c8fd3eb",
-    "url": "/anketa/static/media/icon_repeat_m_white.ce4dfcad.svg"
+    "revision": "47673ee356d2624a3ccc79686301494b",
+    "url": "/anketa/static/media/icon_repeat_l_white.47673ee3.svg"
   },
   {
     "revision": "d4a04a3a70e81ea13648c9e22cf37227",
     "url": "/anketa/static/media/icon_repeat_m_black.d4a04a3a.svg"
+  },
+  {
+    "revision": "ce4dfcad83fd5755c3960aaf9c8fd3eb",
+    "url": "/anketa/static/media/icon_repeat_m_white.ce4dfcad.svg"
   },
   {
     "revision": "f5f1768331ea7032230b4d2bdcec261c",
@@ -532,16 +532,12 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/element-icons.b02bdc1b.ttf"
   },
   {
-    "revision": "20bb2ed13cd633c1daf932f4d8e7e7b4",
-    "url": "/anketa/static/media/icon_error_l_black.20bb2ed1.svg"
-  },
-  {
-    "revision": "e06b14a99e7d8e74e7d46ca1ae304fc5",
-    "url": "/anketa/static/media/icon_error_l_white.e06b14a9.svg"
-  },
-  {
     "revision": "a231f993ad38a8b4aea4d032c36f30f0",
     "url": "/anketa/static/media/icon_error_l_color.a231f993.svg"
+  },
+  {
+    "revision": "20bb2ed13cd633c1daf932f4d8e7e7b4",
+    "url": "/anketa/static/media/icon_error_l_black.20bb2ed1.svg"
   },
   {
     "revision": "9aad9f47c0180fbb11d63a19a87edf5e",
@@ -552,24 +548,28 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_error_m_color.bc6db39f.svg"
   },
   {
-    "revision": "7279987bf55a8b12a83249acfceebb67",
-    "url": "/anketa/static/media/icon_error_s_black.7279987b.svg"
-  },
-  {
     "revision": "143ec85ac6d17adf5b421ad71d9cb6fa",
     "url": "/anketa/static/media/icon_error_m_white.143ec85a.svg"
+  },
+  {
+    "revision": "e06b14a99e7d8e74e7d46ca1ae304fc5",
+    "url": "/anketa/static/media/icon_error_l_white.e06b14a9.svg"
+  },
+  {
+    "revision": "7279987bf55a8b12a83249acfceebb67",
+    "url": "/anketa/static/media/icon_error_s_black.7279987b.svg"
   },
   {
     "revision": "628f84bd45549ce2a349be5c9f2f6f21",
     "url": "/anketa/static/media/icon_error_s_color.628f84bd.svg"
   },
   {
-    "revision": "a1dc11292e76722aad3ac89cd8ec4002",
-    "url": "/anketa/static/media/icon_error_s_white.a1dc1129.svg"
-  },
-  {
     "revision": "add9c3decd5ab147aa5b800262e195c1",
     "url": "/anketa/static/media/icon_error_xl_black.add9c3de.svg"
+  },
+  {
+    "revision": "a1dc11292e76722aad3ac89cd8ec4002",
+    "url": "/anketa/static/media/icon_error_s_white.a1dc1129.svg"
   },
   {
     "revision": "0f4fa33babf09940ceab0277901811fd",
@@ -580,16 +580,16 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_error_xl_white.49893c83.svg"
   },
   {
-    "revision": "772260304d94a3ae1ba1313c75c7c389",
-    "url": "/anketa/static/media/icon_fail_l_black.77226030.svg"
-  },
-  {
     "revision": "269209c08abd37f4411d8f7e6a357509",
     "url": "/anketa/static/media/icon_fail_l_white.269209c0.svg"
   },
   {
     "revision": "4832264f8cb678823ab67d2c442d323e",
     "url": "/anketa/static/media/icon_fail_m_black.4832264f.svg"
+  },
+  {
+    "revision": "772260304d94a3ae1ba1313c75c7c389",
+    "url": "/anketa/static/media/icon_fail_l_black.77226030.svg"
   },
   {
     "revision": "8f34153ce13ad1cb4c7e1c2c9d46524c",
@@ -600,12 +600,12 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_fail_s_black.fcc104f4.svg"
   },
   {
-    "revision": "d9dd95e410bf22a4b25168130d2f6203",
-    "url": "/anketa/static/media/icon_fail_s_white.d9dd95e4.svg"
-  },
-  {
     "revision": "6a0302bc1247121e552fd6ece97dc949",
     "url": "/anketa/static/media/icon_fail_xl_black.6a0302bc.svg"
+  },
+  {
+    "revision": "d9dd95e410bf22a4b25168130d2f6203",
+    "url": "/anketa/static/media/icon_fail_s_white.d9dd95e4.svg"
   },
   {
     "revision": "ba557fc782e2b339f5ac262c5f2c39f4",
@@ -632,6 +632,14 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_ok_m_color.c3c32510.svg"
   },
   {
+    "revision": "5987da79b448a2dc500be3e122e9aea0",
+    "url": "/anketa/static/media/icon_ok_m_white.5987da79.svg"
+  },
+  {
+    "revision": "9334ffab6230832989da8bf18eaf2f53",
+    "url": "/anketa/static/media/icon_ok_s_color.9334ffab.svg"
+  },
+  {
     "revision": "6a3cfe692c73fcdbe7d267e4638e236b",
     "url": "/anketa/static/media/icon_ok_s_black.6a3cfe69.svg"
   },
@@ -640,36 +648,28 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_ok_s_white.c4e91593.svg"
   },
   {
-    "revision": "5987da79b448a2dc500be3e122e9aea0",
-    "url": "/anketa/static/media/icon_ok_m_white.5987da79.svg"
+    "revision": "dc435f2f31cb5a111fff72f25ca9cb1f",
+    "url": "/anketa/static/media/icon_ok_xl_black.dc435f2f.svg"
   },
   {
     "revision": "7a73bf3665497b0040c4c62d60e6566b",
     "url": "/anketa/static/media/icon_ok_xl_color.7a73bf36.svg"
   },
   {
-    "revision": "dc435f2f31cb5a111fff72f25ca9cb1f",
-    "url": "/anketa/static/media/icon_ok_xl_black.dc435f2f.svg"
-  },
-  {
-    "revision": "9334ffab6230832989da8bf18eaf2f53",
-    "url": "/anketa/static/media/icon_ok_s_color.9334ffab.svg"
+    "revision": "14781cbbd049bff7c21e72c0d865ef70",
+    "url": "/anketa/static/media/icon_ok_xl_white.14781cbb.svg"
   },
   {
     "revision": "9986f739d58da6f730aa7032b01f96b8",
     "url": "/anketa/static/media/icon_ok_xxl_black.9986f739.svg"
   },
   {
-    "revision": "14781cbbd049bff7c21e72c0d865ef70",
-    "url": "/anketa/static/media/icon_ok_xl_white.14781cbb.svg"
+    "revision": "828ea793164acdbdf24590bf9a6da6d7",
+    "url": "/anketa/static/media/icon_ok_xxl_color.828ea793.svg"
   },
   {
     "revision": "341f0c8caae7a247fb249e4de696696d",
     "url": "/anketa/static/media/icon_ok_xxl_white.341f0c8c.svg"
-  },
-  {
-    "revision": "828ea793164acdbdf24590bf9a6da6d7",
-    "url": "/anketa/static/media/icon_ok_xxl_color.828ea793.svg"
   },
   {
     "revision": "24622d49a2c86c379c5441e9a9123e64",
@@ -692,16 +692,16 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_call_l_white.b145b702.svg"
   },
   {
+    "revision": "413adc6c5b80af7a23bb9e288500043e",
+    "url": "/anketa/static/media/icon_call_m_white.413adc6c.svg"
+  },
+  {
     "revision": "6030e9bdfad7648df4a5bc0d8d3086b5",
     "url": "/anketa/static/media/icon_call_xxl_white.6030e9bd.svg"
   },
   {
     "revision": "4d5fe6f4fde38020db0082362d41e600",
     "url": "/anketa/static/media/icon_call_xxl_black.4d5fe6f4.svg"
-  },
-  {
-    "revision": "413adc6c5b80af7a23bb9e288500043e",
-    "url": "/anketa/static/media/icon_call_m_white.413adc6c.svg"
   },
   {
     "revision": "e8cb9434f0279fd3b3736e577e1a56b2",
@@ -712,12 +712,12 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_person_l_white.04700756.svg"
   },
   {
-    "revision": "e56c87612a3580a6baf0ed349e4ede40",
-    "url": "/anketa/static/media/icon_person_m_white.e56c8761.svg"
-  },
-  {
     "revision": "ace7e861cabafde95088c246f40fe51b",
     "url": "/anketa/static/media/icon_person_m_black.ace7e861.svg"
+  },
+  {
+    "revision": "e56c87612a3580a6baf0ed349e4ede40",
+    "url": "/anketa/static/media/icon_person_m_white.e56c8761.svg"
   },
   {
     "revision": "997219864a5f2ffabf019d072e96e2ed",
@@ -736,20 +736,20 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_person_xl_white.d3fba20a.svg"
   },
   {
-    "revision": "225c6fb508c846de3abbc9ee5b0a5131",
-    "url": "/anketa/static/media/icon_settings_l_white.225c6fb5.svg"
-  },
-  {
-    "revision": "c5d1aa6e3061cedb2cf191f849549305",
-    "url": "/anketa/static/media/icon_settings_m_black.c5d1aa6e.svg"
-  },
-  {
     "revision": "f8d060b3279c90f52102edbaa51ca045",
     "url": "/anketa/static/media/icon_settings_l_black.f8d060b3.svg"
   },
   {
+    "revision": "225c6fb508c846de3abbc9ee5b0a5131",
+    "url": "/anketa/static/media/icon_settings_l_white.225c6fb5.svg"
+  },
+  {
     "revision": "8a08470cf504b2f89f3e82cd02011ca5",
     "url": "/anketa/static/media/icon_settings_m_white.8a08470c.svg"
+  },
+  {
+    "revision": "c5d1aa6e3061cedb2cf191f849549305",
+    "url": "/anketa/static/media/icon_settings_m_black.c5d1aa6e.svg"
   },
   {
     "revision": "df3e9a2509dd1e55c4c1918eeb419700",
@@ -758,6 +758,10 @@ self.__precacheManifest = [
   {
     "revision": "bc73ce5fbaa2d432fed9d7eeb4866c14",
     "url": "/anketa/static/media/icon_settings_s_white.bc73ce5f.svg"
+  },
+  {
+    "revision": "00be777b2bc9b420afd05f7feb219850",
+    "url": "/anketa/static/media/icon_settings_xxl_white.00be777b.svg"
   },
   {
     "revision": "cd35b2f64253222c1cdb026ed1a353d0",
@@ -772,10 +776,6 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_settings_xxl_black.c9d5a7bd.svg"
   },
   {
-    "revision": "00be777b2bc9b420afd05f7feb219850",
-    "url": "/anketa/static/media/icon_settings_xxl_white.00be777b.svg"
-  },
-  {
     "revision": "f141c21e3571f8451fa928616b50d11e",
     "url": "/anketa/static/media/icon_logout_l_black.f141c21e.svg"
   },
@@ -788,12 +788,12 @@ self.__precacheManifest = [
     "url": "/anketa/static/media/icon_logout_m_black.4a526e4b.svg"
   },
   {
-    "revision": "a18efd57ad787afd398871aacccd0f1b",
-    "url": "/anketa/static/media/icon_logout_s_black.a18efd57.svg"
-  },
-  {
     "revision": "4dc6f6c3453ed3e2b53fbe2744d83af1",
     "url": "/anketa/static/media/icon_logout_m_white.4dc6f6c3.svg"
+  },
+  {
+    "revision": "a18efd57ad787afd398871aacccd0f1b",
+    "url": "/anketa/static/media/icon_logout_s_black.a18efd57.svg"
   },
   {
     "revision": "1c3d230fdd6c5e916eaaa1e4a95b5302",
@@ -824,11 +824,11 @@ self.__precacheManifest = [
     "url": "/anketa/static/css/3.a3fd77fd.chunk.css"
   },
   {
-    "revision": "776de6fa97404b42c88f",
+    "revision": "ebabcb178672a3df4c5a",
     "url": "/anketa/static/css/1.a061ab61.chunk.css"
   },
   {
-    "revision": "2e83892021cce084a250603868511122",
+    "revision": "372eb9dd97b98468649e1093ee75285e",
     "url": "/anketa/index.html"
   }
 ];
